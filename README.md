@@ -22,10 +22,5 @@ Este é um projeto que eu fiz no curso de DevQuest, um curso online desenvolvime
 ![computador segunda imagem]
 <br>
 
-## 😎 Veja a captura de tela do projeto abaixo:
-- Computador
-![computador]
-<br>
-
-![computador segunda imagem]
-<br>
+- Telefone <br>
+![telefone]
