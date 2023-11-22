@@ -16,11 +16,8 @@ Este é um projeto que eu fiz no curso de DevQuest, um curso online desenvolvime
 
 ## 😎 Veja a captura de tela do projeto abaixo:
 - Computador
-![computador]
-<br>
-
-![computador segunda imagem]
+![computador](/src/capturas/computador-lannding-page.png)
 <br>
 
 - Telefone <br>
-![telefone]
+![telefone](/src/capturas/mobile-lannding-page.png)
